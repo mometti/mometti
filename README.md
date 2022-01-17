@@ -1,7 +1,6 @@
 Olá! Eu sou William Mometti 👋
 
 - 🔭 Sou Analista e Programador de Sistemas ERP (Enterprise Resource Planning), com 18 anos experiência.
-- 🌱 Estudando C# (Microsoft Visual Studio)
 
 <div align="center">
   <a href="https://github.com/mometti">
@@ -21,7 +20,5 @@ Olá! Eu sou William Mometti 👋
 <div> 
  <a href="https://discord.com/mometti#5036" target="_blank"><img alt"mometti#5036" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mometti@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
