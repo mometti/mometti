@@ -26,5 +26,8 @@ Hello! I'm William Mometti 👋
 <div> 
  <a href="https://discord.com/mometti#5036" target="_blank"><img alt"mometti#5036" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:mometti@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
- 
+</div>
+
+<div align="center"><br>
+  <!-- <img align="center" alt="Mometti-PacMan" height="300" width="480" src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif"> -->
 </div>
