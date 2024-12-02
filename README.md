@@ -8,8 +8,8 @@ Hello! I'm William Mometti 👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mometti&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Mometti-Delphi" height="30" width="40" src="https://avatars.githubusercontent.com/u/1494134?v=4">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mometti-Delphi" height="30" width="40" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/delphi-logo-128.webp">
   <img align="center" alt="Mometti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mometti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mometti-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -19,6 +19,6 @@ Hello! I'm William Mometti 👋
 
 <div> 
  <a href="https://discord.com/mometti#5036" target="_blank"><img alt"mometti#5036" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mometti@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:mometti@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
  
 </div>
