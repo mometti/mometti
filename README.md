@@ -1,6 +1,6 @@
-Olá! Eu sou William Mometti 👋
+Hello! I'm William Mometti 👋
 
-- 🔭 Sou Analista e Programador de Sistemas ERP (Enterprise Resource Planning), com 18 anos experiência.
+- 🔭 I am an ERP (Enterprise Resource Planning) Systems Analyst and Programmer, with 20 years of experience.
 
 <div align="center">
   <a href="https://github.com/mometti">
